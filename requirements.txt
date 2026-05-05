@@ -1,1 +1,5 @@
-python main.py --mode arbitrage --ai-enabled --network multichain
+ccxt>=4.2.0
+web3>=6.15.1
+solders>=0.21.0
+pydantic-settings>=2.2.1
+asyncio>=3.4.3

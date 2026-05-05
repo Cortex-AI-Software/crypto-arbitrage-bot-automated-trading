@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cortex-ai-software-crypto-arbitrage-bot-automated-trading-badge.png)](https://mseep.ai/app/cortex-ai-software-crypto-arbitrage-bot-automated-trading)
+
 # 🧠 Cortex AI: Autonomous Crypto Arbitrage Bot & Multi-Chain Scanner (v3.4 Stable) 
 
 <p align="center"> 

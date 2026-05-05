@@ -7,7 +7,7 @@ class MarketScanner:
 
     async def get_dex_price(self, pair: str, network: str):
         """Simulating price retrieval from a DEX (Raydium/Ston.fi)"""
-        # В реальном коде здесь вызов Web3 или SDK блокчейна
+        # In the actual code, this is a call to Web3 or the blockchain SDK
         await asyncio.sleep(0.1)
         return random.uniform(140, 145)
 
